@@ -42,8 +42,8 @@ const RootPage = () => (
     <GoogleAnalytics pageTitle={NEXT_PUBLIC_SITE_TITLE} />
     <div className={styles.container}>
       <div>
-        <h2>Welcome!</h2>
-        <p>Your easy-notion-blog deployed successfully!</p>
+        <h2>ymd_pyの備忘録</h2>
+        <p></p>
         <p>Have fun!</p>
         <p>
           easy-notion-blog powered by{' '}
